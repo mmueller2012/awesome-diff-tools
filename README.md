@@ -50,6 +50,7 @@ Wrappers that enhance the output of an existing diff tool.
 
 Diff utilities for non-code based text formats.
 
+- [daff](https://github.com/paulfitz/daff) - Library for comparing tables format such as csv files.
 - [dyff](https://github.com/homeport/dyff) - Pager for git diff (or standalone) for YAML/JSON, enhances display of changes and their location.
 - [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff for JSON, JSON5, XML, HTML, YAML, CSV.
 - [jd](https://github.com/josephburnett/jd) - Creates diffs for JSON/YAML files, also supports patching.
