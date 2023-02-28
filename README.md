@@ -43,6 +43,7 @@ Wrappers that enhance the output of an existing diff tool.
 - [dunk](https://github.com/darrenburns/dunk) - Postprocesses the output of git diff to generate side-by-side diffs, supports syntax highlighting and highlights inline changes.
 - [git-split-diffs](https://github.com/banga/git-split-diffs) - Pager for (git) diff, displays changes like GitHub split diffs (side-by-side diffs) with syntax highlighting.
 - [icdiff](https://github.com/jeffkaufman/icdiff) - Standalone application for side-by-side diffs with syntax highlighting.
+- [riff](https://github.com/walles/riff) - Wrapper around (`git`) `diff` highlighting which parts of lines that changed.
 - [ydiff](https://github.com/ymattw/ydiff) - Pager for git diff, supports unified and side-by-side view, highlights inline changes.
 
 
