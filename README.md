@@ -30,7 +30,7 @@ Programming language aware diffs that provide additional features like hiding sy
 - [diffsitter](https://github.com/afnanenayet/diffsitter) - Terminal utility to generate unified diffs, hides style changes, but doesn't detect moved code.
 - [difftastic](https://github.com/Wilfred/difftastic) - Terminal utility to generate side-by-side diffs, hides style changes and supports many languages, but doesn't detect moved code.
 - [gumtree](https://github.com/GumTreeDiff/gumtree) - Web/GUI/Text frontend to generate side-by-side diffs, hides style changes and detects moved code.
-- [SemanticDiff](https://semanticdiff.com) - Visual Studio Code extension to generate side-by-side diffs, hides style changes, detects moved code blocks and simple refactorings.
+- [SemanticDiff](https://semanticdiff.com) - VS Code extension/GitHub App to generate side-by-side diffs, hides style changes, detects moved code blocks and simple refactorings.
 - [zograscope](https://github.com/xaizek/zograscope) - Terminal utility to generate side-by-side diffs, hides style changes, mostly focused on C/C++.
 
 ### Diff Enhancers
