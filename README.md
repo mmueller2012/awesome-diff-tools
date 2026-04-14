@@ -56,6 +56,7 @@ Diff utilities for non-code based text formats.
 - [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff for JSON, JSON5, XML, HTML, YAML, CSV.
 - [jd](https://github.com/josephburnett/jd) - Creates diffs for JSON/YAML files, also supports patching.
 - [JSON Diff](https://www.jsondiff.com/) - Online tool to compute a semantic diff for JSON files.
+- [LineDiff](https://linediff.app) - Web-based diff tool for comparing text and documents in multiple formats (TXT, DOCX, PDF, CSV, JSON, YAML, XML, Excel), with AI-powered semantic analysis and client-side processing.
 - [nbdime](https://nbdime.readthedocs.io/en/latest/) - Diffing and merging of Jupyter Notebooks.
 - [OpenAPI-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [prettier-diff](https://github.com/josephfrazier/prettier-diff) - Wrapper around git diff for JavaScript/JSON, preprocesses the data with a prettifier.
