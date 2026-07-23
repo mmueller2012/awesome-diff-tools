@@ -22,6 +22,7 @@ The most commonly used tools to display changes between two versions of a source
 
 - [GNU Diffutils](https://www.gnu.org/software/diffutils/) - Popular set of tools to compute unified diffs between files, supports two-way and three-way diffs.
 - [git (diff)](https://git-scm.com/) - Popular version control system, can compute unified diffs between commits, workings trees, branches, etc.
+- [Diffhero](https://diffhero.app) - Free, browser-based diff checker for text and code with syntax highlighting for ~17 languages, word-level diffing, and JSON-aware comparison. Nothing is uploaded.
 
 ### Semantic Diffs
 
