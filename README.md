@@ -51,6 +51,7 @@ Wrappers that enhance the output of an existing diff tool.
 
 Diff utilities for non-code based text formats.
 
+- [caddiff](https://github.com/angel291592/caddiff) - Diff two STEP assembly revisions into a highlighted image and a machine-readable change list.
 - [daff](https://github.com/paulfitz/daff) - Library for comparing tables format such as csv files.
 - [dyff](https://github.com/homeport/dyff) - Pager for git diff (or standalone) for YAML/JSON, enhances display of changes and their location.
 - [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff for JSON, JSON5, XML, HTML, YAML, CSV.
