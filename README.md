@@ -58,6 +58,7 @@ Diff utilities for non-code based text formats.
 - [JSON Diff](https://www.jsondiff.com/) - Online tool to compute a semantic diff for JSON files.
 - [JSONViewerTool](https://jsonviewertool.com/json-compare) - Online semantic JSON comparison that ignores object-key order while preserving array-order changes.
 - [nbdime](https://nbdime.readthedocs.io/en/latest/) - Diffing and merging of Jupyter Notebooks.
+- [Nutilz Diff Checker](https://nutilz.com/diff-checker) - Online tool to compare two blocks of plain text, highlighting added, removed and changed lines side by side. Free, no sign-up.
 - [OpenAPI-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [prettier-diff](https://github.com/josephfrazier/prettier-diff) - Wrapper around git diff for JavaScript/JSON, preprocesses the data with a prettifier.
 - [xcdiff](https://github.com/bloomberg/xcdiff) - Terminal utility to find differences between two .xcodeproj project files.
