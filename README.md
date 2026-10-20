@@ -75,6 +75,7 @@ Diff utilities to compare the content of PDF files.
 
 - [diff-pdf](https://vslavik.github.io/diff-pdf/) - Generates a PDF file with visually highlighted differences based on the input PDFs.
 - [DiffPDF](https://www.qtrac.eu/diffpdf.html) - Interactive GUI for comparing two PDF files.
+- [Uttily Compare PDF](https://pdf.uttily.com/compare-pdf) - Web tool comparing two PDFs page by page with side-by-side and pixel-difference views, entirely in the browser.
 
 ## Binary Data
 
