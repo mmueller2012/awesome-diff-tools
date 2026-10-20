@@ -51,6 +51,7 @@ Wrappers that enhance the output of an existing diff tool.
 
 Diff utilities for non-code based text formats.
 
+- [Benchvale diff checker](https://benchvale.com/dev/diff-checker) - Compares two texts, or two JSON documents with key order ignored, in the browser at line, word or character level.
 - [daff](https://github.com/paulfitz/daff) - Library for comparing tables format such as csv files.
 - [dyff](https://github.com/homeport/dyff) - Pager for git diff (or standalone) for YAML/JSON, enhances display of changes and their location.
 - [Graphtage](https://github.com/trailofbits/graphtage) - Semantic diff for JSON, JSON5, XML, HTML, YAML, CSV.
