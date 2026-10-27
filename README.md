@@ -88,6 +88,7 @@ Diff utilities to compare binary data.
 
 Diff utilities that can compare the content of whole directories.
 
+- [Diff Anything](https://martingruner.com/projects/diffanything) - Mac and Windows app that compares folders and ZIP, 7z and RAR archives, then opens each changed file as a text, code, spreadsheet, Word, PDF or image comparison. Free plan; Pro adds folder sync and three-way merge.
 - [WinMerge](https://winmerge.org) - Supports code (with syntax highlighting), text, image and CSV files.
 - [Meld](https://meldmerge.org/) - Supports text based files, also integrates with version control systems.
 
