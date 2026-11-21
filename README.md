@@ -60,6 +60,7 @@ Diff utilities for non-code based text formats.
 - [nbdime](https://nbdime.readthedocs.io/en/latest/) - Diffing and merging of Jupyter Notebooks.
 - [OpenAPI-diff](https://github.com/OpenAPITools/openapi-diff) - Utility for comparing two OpenAPI specifications.
 - [prettier-diff](https://github.com/josephfrazier/prettier-diff) - Wrapper around git diff for JavaScript/JSON, preprocesses the data with a prettifier.
+- [TextCompareLab](https://textcomparelab.com/) - Free online diff checker: compare two texts by words or lines, plus Word and PDF files. Runs entirely in the browser, no uploads, no sign-up.
 - [xcdiff](https://github.com/bloomberg/xcdiff) - Terminal utility to find differences between two .xcodeproj project files.
 
 ## Databases
